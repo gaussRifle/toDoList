@@ -17,7 +17,8 @@ let tasks = [
 		textTask: 'Умыться'
 	},
 	{
-		textTask: 'Сделать звонок',	},
+		textTask: 'Сделать звонок',	
+	},
 	{
 		textTask: 'Похмелиться',
 		isDone: 'done'
@@ -74,3 +75,4 @@ class toDoListPage{
 let page = new toDoListPage({
 	el: document.body
 });
+
