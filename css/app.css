@@ -1,0 +1,9 @@
+.done {
+	text-decoration:line-through;
+}
+.toDoList__item--check span, .toDoList__item--reset span{
+	cursor:pointer;
+}
+textarea{
+	width:100%;
+}
